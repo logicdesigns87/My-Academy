@@ -1,0 +1,121 @@
+/*
+#1 color = #3fa194;
+#2 color = #3fbbc0;
+*/
+
+a:hover,
+a:focus {
+    color: #3fa194;
+}
+
+.circled {
+	background: #3fa194;
+}
+
+.con1 > div, .con2 > div, .con3 > div { 
+	background-color: #3fa194;
+}
+
+.scrollup:hover {
+	background: #3fa194;
+}
+
+
+/* service */
+
+.service-icon span {
+	color: #3fa194;
+}
+
+
+
+/* button */
+.btn-skin {
+  background-color: #3fa194;
+  border-color: #3fa194;
+}
+
+
+/* top */
+.top-area {
+	background: #3fbbc0;
+}
+
+/* menu */
+
+.navbar-custom ul.nav ul.dropdown-menu li a:hover {
+	color: #3fbbc0;
+}
+.navbar-custom.top-nav-collapse .nav li a:hover,
+.navbar-custom .nav li a:hover,
+.navbar-custom .nav li.active a,.navbar-custom.top-nav-collapse .nav li.active a  {
+   color: #ffffff;
+    background-color: #3fa194;
+}
+
+
+.owl-theme .owl-controls .owl-page.active span,
+.owl-theme .owl-controls.clickable .owl-page:hover span {
+    background-color: #3fa194;
+}
+
+
+.bg-skin {
+	background: #3fa194;
+}
+
+.highlight-color {
+	background-color: #3fa194;
+}
+.color {
+	color: #3fa194;
+}
+
+/* pricing box  */
+.pricing-content.featured h2,.pricing-content.featured .price-bottom {
+	background-color:#3fbbc0;
+}
+.pricing-content.featured h3 {
+	background:#3fa194;
+}
+
+
+
+/* team */
+.cbp-l-grid-team-name {
+    color: #3fbbc0;
+}
+
+.cbp-l-filters-button .cbp-filter-counter {
+	background-color: #3fa194;
+}
+
+.cbp-l-filters-alignLeft .cbp-filter-item-active {
+    /* @editable properties */
+    background-color: #3fa194;
+    border:1px solid #3fa194;
+}
+
+.cbp-l-filters-dropdownWrap {
+    background: #3fa194;
+}
+.cbp-l-filters-button .cbp-filter-item.cbp-filter-item-active {
+    /* @editable properties */
+    background-color: #3fa194;
+    border-color: #3fa194;
+}
+.cbp-l-caption-buttonLeft,
+.cbp-l-caption-buttonRight {
+    /* @editable properties */
+    background-color: #3fa194;
+}
+
+.cbp-l-caption-buttonLeft:hover,
+.cbp-l-caption-buttonRight:hover {
+    /* @editable properties */
+    background-color: #3fbbc0;
+}
+
+.form-control:focus {
+  border-color: #3fbbc0;
+}
